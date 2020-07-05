@@ -1,0 +1,1 @@
+alter table employees rename column commissio_pct to commission_pct;
